@@ -1,0 +1,19 @@
+Script started on Sun 12 Mar 2017 10:23:03 PM CST
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m whoami;pwd
+pd2vm
+/home/pd2vm/lab1
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git congi[K[Kfig -l
+user.email=leo199483@gmail.com
+user.name=leo199483
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/leo199483/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m ls
+lab1.script
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m 
+Script done on Sun 12 Mar 2017 10:23:51 PM CST
